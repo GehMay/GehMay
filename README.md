@@ -49,6 +49,15 @@
 <a href="https://github.com/GehMay/InterLink">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=GehMay&repo=InterLink&theme=transparent&title_color=74C69D&icon_color=95D5B2&text_color=C0C0C0&bg_color=0D1117&hide_border=true" />
 </a>
+<a href="https://github.com/GehMay/horaculo">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=GehMay&repo=horaculo&theme=transparent&title_color=74C69D&icon_color=95D5B2&text_color=C0C0C0&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/GehMay/Cidade_Limpa">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=GehMay&repo=Cidade_Limpa&theme=transparent&title_color=74C69D&icon_color=95D5B2&text_color=C0C0C0&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/GehMay/TrapL-ndia">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=GehMay&repo=TrapL-ndia&theme=transparent&title_color=74C69D&icon_color=95D5B2&text_color=C0C0C0&bg_color=0D1117&hide_border=true" />
+</a>
 
 </div>
 
