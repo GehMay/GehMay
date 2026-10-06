@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:40916C&height=220&section=header&text=Geovanna%20Tamagusko&fontSize=42&fontColor=E5E5E5&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20FECAP&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:40916C&height=220&section=header&text=Geovanna%20Tamagusko&fontSize=42&fontColor=E5E5E5&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20FECAP&descAlignY=52&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=95D5B2&center=true&vCenter=true&width=600&lines=full-stack+em+forma%C3%A7%C3%A3o;hardware+hacker+nas+horas+vagas;sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 ![Full Stack em formação](https://img.shields.io/badge/◆_Full_Stack_em_forma%C3%A7%C3%A3o-0D1117?style=flat-square&color=1B4332&labelColor=1B4332)
 ![Hardware Hacker](https://img.shields.io/badge/◆_Hardware_Hacker-0D1117?style=flat-square&color=1B4332&labelColor=1B4332)
@@ -10,21 +12,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-```text
-geovanna@github:~$ whoami
-> Geovanna Tamagusko
-> Estudante de Ciência da Computação (FECAP)
-> Full Stack em formação
+### 🌱 Sobre mim
 
-geovanna@github:~$ cat sobre.md
-> front-end: JavaScript, React, HTML, CSS
-> back-end: Node.js, Python
-> hardware: Arduino, ESP32
-> aprendendo: C++
-
-geovanna@github:~$ ./status.sh
-> online - sempre aprendendo
-```
+- 🎓 Estudante de Ciência da Computação, me formando para atuar como desenvolvedora **Full Stack**.
+- 💻 No front-end, construo interfaces com **JavaScript**, **React**, **HTML** e **CSS**; no back-end, avanço com **Node.js** e **Python**.
+- 🔧 Nas horas vagas, brinco com **Arduino** e **ESP32** — hardware também é código.
+- 🌱 Aprendendo **C++** para fechar o ciclo.
+- 📌 **Git** no fluxo diário para versionar cada experimento.
 
 <div align="center">
 
@@ -37,7 +31,7 @@ geovanna@github:~$ ./status.sh
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 <div align="center">
 
@@ -56,7 +50,7 @@ geovanna@github:~$ ./status.sh
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## 📌 Projetos em destaque
+### 📌 Projetos em destaque
 
 <div align="center">
 
@@ -80,9 +74,7 @@ geovanna@github:~$ ./status.sh
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## 📊 GitHub Stats Dashboard
-
-<p align="center"><sub>dados públicos atualizados em tempo real via GitHub API</sub></p>
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -97,7 +89,7 @@ geovanna@github:~$ ./status.sh
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## 🏆 Troféus
+### 🏆 Troféus
 
 <div align="center">
 
@@ -107,7 +99,7 @@ geovanna@github:~$ ./status.sh
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## 🐍 Contribuições
+### 🐍 Contribuições
 
 <div align="center">
 
@@ -121,51 +113,44 @@ geovanna@github:~$ ./status.sh
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## 📚 Além do código
+### ✨ Além do código
 
-<p align="center"><sub>referências e fandoms que me acompanham</sub></p>
+<p align="center"><sub>referências que me acompanham</sub></p>
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-📖<br>
-**Harry Potter**<br>
-<sub>Casa: Sonserina</sub>
+<img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f40d.png"/>
+<br><sub>Harry Potter</sub>
 
 </td>
 <td align="center" width="33%">
 
-📖<br>
-**Percy Jackson**<br>
-<sub>Casa de Hades</sub>
+<img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f531.png"/>
+<br><sub>Percy Jackson</sub>
 
 </td>
 <td align="center" width="33%">
 
-🎮<br>
-**Batman · Minecraft**<br>
-<sub>sempre no controle</sub>
+<img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f987.png"/>
+<br><sub>Batman · Minecraft</sub>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>sem spoilers, prometido 🙂</sub></p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## 🤝 Vamos nos conectar
+### 🤝 Vamos nos conectar
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=E5E5E5)](https://www.linkedin.com/in/geovanna-tamagusko)
 [![Instagram](https://img.shields.io/badge/Instagram-1B4332?style=for-the-badge&logo=instagram&logoColor=E5E5E5)](https://instagram.com/geovannavmrt)
 
-</div>
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=GehMay&color=1b4332&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es+do+perfil"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916C,100:1B4332&height=120&section=footer" width="100%"/>
