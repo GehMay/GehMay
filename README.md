@@ -26,14 +26,18 @@ geovanna@github:~$ ./status.sh
 > online - sempre aprendendo
 ```
 
-<table align="center">
-  <tr>
-    <td align="center">📁<br><sub>REPOSITÓRIOS</sub><br><b>9</b></td>
-    <td align="center">👤<br><sub>SEGUIDORES</sub><br><b>2</b></td>
-    <td align="center">➡️<br><sub>SEGUINDO</sub><br><b>6</b></td>
-    <td align="center">🕐<br><sub>DESDE</sub><br><b>Ago 2025</b></td>
-  </tr>
-</table>
+<div align="center">
+
+![Repositórios](https://img.shields.io/badge/📁_REPOSIT%C3%93RIOS-9-40916C?style=for-the-badge&labelColor=0D1117&color=1B4332)
+![Seguidores](https://img.shields.io/badge/👤_SEGUIDORES-2-40916C?style=for-the-badge&labelColor=0D1117&color=1B4332)
+![Seguindo](https://img.shields.io/badge/➡️_SEGUINDO-6-40916C?style=for-the-badge&labelColor=0D1117&color=1B4332)
+![Desde](https://img.shields.io/badge/🕐_DESDE-Ago%202025-40916C?style=for-the-badge&labelColor=0D1117&color=1B4332)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -121,18 +125,20 @@ geovanna@github:~$ ./status.sh
 
 <p align="center"><sub>referências e fandoms que me acompanham</sub></p>
 
-<table align="center">
-  <tr>
-    <th>📖 Livros</th>
-    <th>📖 Livros</th>
-    <th>🎮 Jogos favoritos</th>
-  </tr>
-  <tr>
-    <td align="center"><b>Harry Potter</b><br>◆ Casa: Sonserina<br><sub>sem spoilers, prometido</sub></td>
-    <td align="center"><b>Percy Jackson</b><br>◆ Casa de Hades<br><sub>sem spoilers, prometido</sub></td>
-    <td align="center"><b>Batman · Minecraft</b><br>◆ sempre no controle<br><sub>&nbsp;</sub></td>
-  </tr>
-</table>
+<div align="center">
+
+**📖 Harry Potter**
+![Sonserina](https://img.shields.io/badge/Casa-Sonserina-1B4332?style=flat-square&labelColor=0D1117)
+&nbsp;&nbsp;&nbsp;
+**📖 Percy Jackson**
+![Hades](https://img.shields.io/badge/Casa-de_Hades-1B4332?style=flat-square&labelColor=0D1117)
+&nbsp;&nbsp;&nbsp;
+**🎮 Batman · Minecraft**
+![Sempre no controle](https://img.shields.io/badge/sempre_no-controle-1B4332?style=flat-square&labelColor=0D1117)
+
+<sub>sem spoilers, prometido 🙂</sub>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
