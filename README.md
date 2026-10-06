@@ -1,26 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:40916C&height=220&section=header&text=Geovanna%20Tamagusko&fontSize=42&fontColor=E5E5E5&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:40916C&height=220&section=header&text=Geovanna%20Tamagusko&fontSize=42&fontColor=E5E5E5&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20FECAP&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://www.linkedin.com/in/geovanna-tamagusko">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=74C69D&center=true&vCenter=true&width=600&lines=const+geovanna+%3D+%7B;+++front-end%3A+%5B%22JS%22%2C+%22React%22%5D%2C;+++embedded%3A+%5B%22Arduino%22%2C+%22ESP32%22%5D%2C;+++status%3A+%22sempre+aprendendo%22;%7D%3B" alt="Typing SVG" />
-</a>
+![Full Stack em formação](https://img.shields.io/badge/◆_Full_Stack_em_forma%C3%A7%C3%A3o-0D1117?style=flat-square&color=1B4332&labelColor=1B4332)
+![Hardware Hacker](https://img.shields.io/badge/◆_Hardware_Hacker-0D1117?style=flat-square&color=1B4332&labelColor=1B4332)
+![Sempre aprendendo](https://img.shields.io/badge/◆_Sempre_aprendendo-0D1117?style=flat-square&color=1B4332&labelColor=1B4332)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## Sobre mim
+```bash
+geovanna@github:~$ whoami
+> Geovanna Tamagusko
+> Estudante de Ciência da Computação (FECAP)
+> Full Stack em formação
 
-- 🎓 Estudante de Ciência da Computação, me formando para atuar como desenvolvedora **Full Stack**.
-- 💻 No front-end, construo interfaces com **JavaScript**, **React**, **HTML** e **CSS**; no back-end, estou avançando com **Node.js** e **Python**.
-- 🔧 Nas horas vagas, também brinco com **Arduino** e **ESP32** — hardware também é código.
-- 🌱 Aprendendo **C++** para fechar o ciclo.
-- 📌 **Git** no fluxo diário para versionar cada experimento.
+geovanna@github:~$ cat sobre.md
+> front-end: JavaScript, React, HTML, CSS
+> back-end: Node.js, Python
+> hardware: Arduino, ESP32
+> aprendendo: C++
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
+geovanna@github:~$ ./status.sh
+> online - sempre aprendendo
+```
 
-## Tecnologias
+<table align="center">
+  <tr>
+    <td align="center">📁<br><sub>REPOSITÓRIOS</sub><br><b>9</b></td>
+    <td align="center">👤<br><sub>SEGUIDORES</sub><br><b>2</b></td>
+    <td align="center">➡️<br><sub>SEGUINDO</sub><br><b>6</b></td>
+    <td align="center">🕐<br><sub>DESDE</sub><br><b>Ago 2025</b></td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -39,7 +52,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## Projetos
+## 📌 Projetos em destaque
 
 <div align="center">
 
@@ -63,7 +76,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## GitHub Stats
+## 📊 GitHub Stats Dashboard
+
+<p align="center"><sub>dados públicos atualizados em tempo real via GitHub API</sub></p>
 
 <div align="center">
 
@@ -78,7 +93,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## Troféus
+## 🏆 Troféus
 
 <div align="center">
 
@@ -88,7 +103,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## Contribuições
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -102,7 +117,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-## Vamos nos conectar
+## 📚 Além do código
+
+<p align="center"><sub>referências e fandoms que me acompanham</sub></p>
+
+<table align="center">
+  <tr>
+    <th>📖 Livros</th>
+    <th>📖 Livros</th>
+    <th>🎮 Jogos favoritos</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Harry Potter</b><br>◆ Casa: Sonserina<br><sub>sem spoilers, prometido</sub></td>
+    <td align="center"><b>Percy Jackson</b><br>◆ Casa de Hades<br><sub>sem spoilers, prometido</sub></td>
+    <td align="center"><b>Batman · Minecraft</b><br>◆ sempre no controle<br><sub>&nbsp;</sub></td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
+
+## 🤝 Vamos nos conectar
 
 <div align="center">
 
