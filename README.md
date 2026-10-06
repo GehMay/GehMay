@@ -127,7 +127,7 @@
 </td>
 <td align="center" width="33%">
 
-<img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f531.png"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f480.png"/>
 <br><sub>Percy Jackson</sub>
 
 </td>
