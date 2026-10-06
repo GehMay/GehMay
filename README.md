@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
-```bash
+```text
 geovanna@github:~$ whoami
 > Geovanna Tamagusko
 > Estudante de Ciência da Computação (FECAP)
