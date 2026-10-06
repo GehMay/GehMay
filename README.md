@@ -125,20 +125,33 @@ geovanna@github:~$ ./status.sh
 
 <p align="center"><sub>referências e fandoms que me acompanham</sub></p>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-**📖 Harry Potter**
-![Sonserina](https://img.shields.io/badge/Casa-Sonserina-1B4332?style=flat-square&labelColor=0D1117)
-&nbsp;&nbsp;&nbsp;
-**📖 Percy Jackson**
-![Hades](https://img.shields.io/badge/Casa-de_Hades-1B4332?style=flat-square&labelColor=0D1117)
-&nbsp;&nbsp;&nbsp;
-**🎮 Batman · Minecraft**
-![Sempre no controle](https://img.shields.io/badge/sempre_no-controle-1B4332?style=flat-square&labelColor=0D1117)
+📖<br>
+**Harry Potter**<br>
+<sub>Casa: Sonserina</sub>
 
-<sub>sem spoilers, prometido 🙂</sub>
+</td>
+<td align="center" width="33%">
 
-</div>
+📖<br>
+**Percy Jackson**<br>
+<sub>Casa de Hades</sub>
+
+</td>
+<td align="center" width="33%">
+
+🎮<br>
+**Batman · Minecraft**<br>
+<sub>sempre no controle</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>sem spoilers, prometido 🙂</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B4332,100:74C69D&height=3&width=1000" width="100%"/>
 
