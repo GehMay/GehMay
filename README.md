@@ -69,6 +69,9 @@
 <a href="https://github.com/GehMay/TrapL-ndia">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=GehMay&repo=TrapL-ndia&theme=transparent&title_color=74C69D&icon_color=95D5B2&text_color=C0C0C0&bg_color=0D1117&hide_border=true" />
 </a>
+<a href="https://github.com/GehMay/nico">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=GehMay&repo=nico&theme=transparent&title_color=74C69D&icon_color=95D5B2&text_color=C0C0C0&bg_color=0D1117&hide_border=true" />
+</a>
 
 </div>
 
